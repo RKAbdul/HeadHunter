@@ -1,0 +1,25 @@
+#You can configure the name of the head.
+#You can use {player} for the player name.
+
+head-name: "&c{player}'s Head"
+
+#You can configure the lore of the head here.
+#You can use {player} for the player name and {value} for the value of the head
+#Use \n for next line
+
+head-lore: "Right click with the head to claim the reward.\nValue: &a{value}"
+
+#Put this option to false if you want to give the player head even when not killed by a player
+
+only-kill: "true"
+
+#Reward settings:
+#Put the percentage that you want the player to get from the opponent balance.
+#You can contact me at discord if you need further more help
+
+money-percent: "15"
+
+#Set this to false if you don't want the player of whome head you are redeeming to loose money
+#Setting this to true will remove same money from player whome you are redeeming the head, as the money the player who is redeeming the head gets
+
+reduce-money: "true"
