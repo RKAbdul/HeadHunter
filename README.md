@@ -1,5 +1,7 @@
 # GimmeHead
 [![Discord Chat](https://img.shields.io/discord/490677165289897995.svg)](https://discord.gg/M7FA5D3)
+ 
+# Information
 A pocketmine plugin, that will let players get head by killing players and redeem rewards from the head
 # Configuration
 You can mostly setup everything in the config.yml file
