@@ -9,4 +9,5 @@ You can mostly setup everything in the config.yml file
 The rewards will work according to the opponent money, that will be calculated by a percentage you can edit in config `money-percent` option to setup the percentage you want.
 You can change `reduce-money` from config to rather enable or disable reducing money from the opponent who's head you are redeeming
 
-
+# Credits
+Thanks to @Xenophilicy and @HyperFlareMC for helping me
