@@ -2,3 +2,5 @@ name: GimmeHead
 version: 0.1
 main: RKAbdul\GimmeHead\Main
 api: 3.0.0
+depend:
+- EconomyAPI
