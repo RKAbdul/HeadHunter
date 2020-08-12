@@ -1,6 +1,6 @@
-name: GimmeHead
+name: HeadHunter
 version: 0.1
-main: RKAbdul\GimmeHead\Main
+main: RKAbdul\HeadHunter\Main
 api: 3.0.0
 depend:
 - EconomyAPI
