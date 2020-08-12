@@ -1,4 +1,4 @@
-# GimmeHead
+# HeadHunter
 [![Discord Chat](https://img.shields.io/discord/490677165289897995.svg)](https://discord.gg/M7FA5D3)
  [![](https://poggit.pmmp.io/shield.state/GimmeHead)](https://poggit.pmmp.io/p/GimmeHead)
 
