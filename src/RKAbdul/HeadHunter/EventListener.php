@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace RKAbdul\GimmeHead;
+namespace RKAbdul\HeadHunter;
 
 use pocketmine\event\Listener;
 use pocketmine\Player;
