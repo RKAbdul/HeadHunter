@@ -1,6 +1,6 @@
 <?php
 
-namespace RKAbdul\GimmeHead;
+namespace RKAbdul\HeadHunter;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
