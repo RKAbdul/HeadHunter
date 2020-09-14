@@ -13,6 +13,7 @@ use pocketmine\Server;
 use pocketmine\utils\Config;
 use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\event\player\PlayerInteractEvent;
+use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\item\Item;
 use onebone\economyapi\EconomyAPI;
 
