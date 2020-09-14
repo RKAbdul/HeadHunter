@@ -1,4 +1,5 @@
 name: HeadHunter
+author: RKAbdul
 version: 0.1
 main: RKAbdul\HeadHunter\Main
 api: 3.0.0
