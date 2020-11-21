@@ -1,6 +1,6 @@
 name: HeadHunter
 author: RKAbdul
-version: 0.1
+version: 0.2
 main: RKAbdul\HeadHunter\Main
 api: 3.0.0
 depend:
