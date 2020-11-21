@@ -1,3 +1,6 @@
+# Internal use only, DO-NOT CHANGE
+version: 2
+
 #You can configure the name of the head.
 #You can use {player} for the player name.
 
