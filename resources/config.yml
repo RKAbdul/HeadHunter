@@ -11,7 +11,7 @@ head-lore: "Right click with the head to claim the reward.\nValue: &a{value}"
 
 #Put this option to false if you want to give the player head even when not killed by a player
 
-only-kill: "true"
+only-kill: true
 
 #Reward settings:
 #Put the percentage that you want the player to get from the opponent balance.
@@ -22,4 +22,4 @@ money-percent: "15"
 #Set this to false if you don't want the player of whome head you are redeeming to loose money
 #Setting this to true will remove same money from player whome you are redeeming the head, as the money the player who is redeeming the head gets
 
-reduce-money: "true"
+reduce-money: true
